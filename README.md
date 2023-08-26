@@ -1,3 +1,3 @@
-Add access key to .env file
-npm install
-npm start
+**Add access key to .env file**<br>
+**npm install**<br>
+**npm start**<br>
